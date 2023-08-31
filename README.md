@@ -46,7 +46,7 @@ Example:
 
 > copy the external IP for TYPE LoadBalancer named client-service-lb
 > use curl to access the service
-> NOTE: your IP will be different
+> NOTE: **your IP will be different**
 ```bash
 curl http://34.27.36.71/data/123
 ```
